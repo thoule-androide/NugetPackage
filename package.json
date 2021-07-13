@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thoule-androide/NugetPackage/issues"
   },
-  "homepage": "https://github.com/thoule-androide/NugetPackage#readme"
+  "homepage": "https://github.com/thoule-androide/NugetPackage#readme",
+  "publishConfig": {
+    "@thoule-androide:registry": "https://npm.pkg.github.com"
+  }
 }
